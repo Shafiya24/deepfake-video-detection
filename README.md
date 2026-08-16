@@ -102,6 +102,26 @@ The trained model file is required by the frontend application for making predic
 - 8-frame video processing
 - Streamlit web interface
 
+## Results / Output
+
+### Application Interface
+
+The Streamlit application provides an interface for uploading an MP4 video.
+
+![Application Interface](outputs/application-interface.png)
+
+### Fake Video Detection
+
+The system identifies a fake video and displays the result as **FAKE VIDEO DETECTED**.
+
+![Fake Video Detection](outputs/fake-detection.png)
+
+### Real Video Detection
+
+The system identifies a real video and displays the result as **REAL VIDEO**.
+
+![Real Video Detection](outputs/real-detection.png)
+
 ## Author
 
 **Shafiya24**
