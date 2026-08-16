@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+dataset/
+FF++/
+
+temp.mp4
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
